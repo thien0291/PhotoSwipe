@@ -17,7 +17,7 @@ var _options = {
 	bgOpacity: 1,
 	mouseUsed: false,
 	loop: true,
-	pinchToClose: true,
+	pinchToClose: false,
 	closeOnScroll: true,
 	closeOnVerticalDrag: true,
 	verticalDragRange: 0.75,
